@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GowthamNamuru
-- 👀 I’m interested in iOS Application Development
-- 🌱 I’m currently learning iOS Lead Essentials
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in iOS Application Development, Backend Development and AI ML Engineering
+- 🌱 I’m currently learning AI ML Development
 - 📫 Reach me @ gowthamnamuri@gmail.com
 
 <!---
